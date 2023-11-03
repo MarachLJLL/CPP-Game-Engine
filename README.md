@@ -1,2 +1,2 @@
 # HarvardOfCanadaSummer2023
-Summer Projects of Isaac Hu and Luis Joseph Limgenco
+Cache friendly game rendering engine with multiplayer UDP developped by Isaac Hu and Luis Joseph Limgenco
